@@ -1,0 +1,21 @@
+
+
+body,ul,li{
+	padding:0;
+	margin: 0;
+}
+li{
+	list-style: none;
+}
+.rating{
+	width:150px;
+	height:26px;
+	margin:100px auto;
+}
+.rating-item{
+	float: left;
+	width:26px;
+	height: 26px;
+	background: url('../images/rating.png') no-repeat;
+	cursor: pointer;
+}
